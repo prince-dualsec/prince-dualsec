@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=⚡+Live+PenTester+Terminal+%23;🔓+Ethical+Hacker+%26+Security+Researcher;🛡️+Cyber+Security+Specialist;💻+Offensive+%26+Defensive+Security;🌐+Bug+Bounty+Hunter" alt="Typing SVG" />
 </p>
 
+![image alt](https://github.com/prince-dualsec/prince-dualsec/blob/main/prince-dualsec.jpg?raw=true)
+
+
+
 🔐 IDENTITY: 
   
    Name: Prince Barman
